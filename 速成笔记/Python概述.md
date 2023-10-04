@@ -2,7 +2,7 @@
 
 pip的使用/python类型
 
-![image-20231003203305024](E:\610 - 编程开发\622-课程笔记\B03-python\速成笔记\Python概述.assets\image-20231003203305024.png)
+https://github.com/biancaurendell/python-/blob/main/%E9%80%9F%E6%88%90%E7%AC%94%E8%AE%B0/Python%E6%A6%82%E8%BF%B0.assets/image-20231003203305024.png
 
 # 1.2标识符
 
